@@ -1,6 +1,6 @@
 Un gráfico simple para poder analizar o realizar controles estadísticos a poblaciones de datos.
 
-Se incluyen dos líneas verticales, una para ingresar un valor ed referencia (línea roja) y otra para grafícar una valor esperado de Percentil 20 intersectado con la curva de frecuencia acumulada inversa.
+Se incluyen dos líneas verticales, una para ingresar un valor ed referencia (línea roja) y otra para grafícar una valor esperado de Percentil 20 intersectado con la curva de frecuencia acumulada inversa (línea verde).
 
 
 
